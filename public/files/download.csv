@@ -1,0 +1,16 @@
+"Bill Party Statement","BILL%% Con Govind Ram Bareilly",,Duration,"(2016-01-01 to 2025-01-01)",
+"Party Name",Particular,"Transaction Type",Debit,Credit,"Transaction Datetime"
+"BILL%% Con Govind Ram Bareilly",Advance,Credit,0,10000,"2023-05-16 05:55:36"
+"BILL%% Con Govind Ram Bareilly","Advance from Previous Balance",Credit,0,2388,"2023-07-16 10:03:01"
+"BILL%% Con Govind Ram Bareilly",ADVANCE,Credit,0,10000,"2023-07-18 09:56:55"
+"BILL%% Con Govind Ram Bareilly",938619,Debit,12800,0,"2023-07-17 08:27:30"
+"BILL%% Con Govind Ram Bareilly","cash paid by site  govind ram",Credit,0,500,"2023-07-21 08:21:18"
+"BILL%% Con Govind Ram Bareilly",OK,Credit,0,9000,"2023-07-24 08:34:27"
+"BILL%% Con Govind Ram Bareilly",383925,Debit,15720,0,"2023-07-27 07:05:45"
+"BILL%% Con Govind Ram Bareilly","RSG BILL/2023-24/166",Debit,19600,0,"2023-07-27 12:49:52"
+"BILL%% Con Govind Ram Bareilly",ok,Credit,0,10000,"2023-07-29 05:33:49"
+"BILL%% Con Govind Ram Bareilly","01 % TDS On Amount 19600/-",Credit,0,196,"2023-07-29 06:03:39"
+"BILL%% Con Govind Ram Bareilly","01 % TDS On Amount 15720/-",Credit,0,157,"2023-07-29 06:04:41"
+"BILL%% Con Govind Ram Bareilly",OK,Credit,0,10000,"2023-08-11 06:43:13"
+,,,,,
+"(During This Report Period)","(2016-01-01 to 2025-01-01)",Total,48120,52241,"Balance : -4121"
