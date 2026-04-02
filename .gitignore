@@ -5,3 +5,10 @@ storage/
 public/images/
 *.json
 *.zip
+public/images/*
+!public/images/*.jpg
+!public/images/*.jpeg
+!public/images/*.png
+!public/images/*.gif
+!public/images/*.webp
+public/images/*/
